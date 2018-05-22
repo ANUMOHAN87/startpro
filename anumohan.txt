@@ -5,10 +5,10 @@ THIS IS TEST MS
 another txt for test conflict msgG
 
 horizontal scaling and vertical scaling on AWS 
-region peering
-New in AWS 2018
+egion peering
+New in AWS 2018-kineses
 to connect VPN what services
-Spot instances deployement
-automation of instances h0w?
-how Patching intances
+Spot instances deployement- what is that 
+automation of instances h0w?-using Lamda
+how Patching intances-using system server manager
 AD intergated on AW
