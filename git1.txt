@@ -1,1 +1,12 @@
 TEST DEMO
+
+This is one of the text demo for merge tool test
+
+horizontal scaling and vertical scaling on AWS 
+region peering
+New in AWS 2018
+to connect VPN what services
+Spot instances deployement
+
+how Patching intances
+AD intergated on AW

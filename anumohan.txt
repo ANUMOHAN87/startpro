@@ -1,4 +1,14 @@
 DSA
 safdSA
 sfASD
-THIS IS TEST MSG
+THIS IS TEST MS
+another txt for test conflict msgG
+
+horizontal scaling and vertical scaling on AWS 
+region peering
+New in AWS 2018
+to connect VPN what services
+Spot instances deployement
+automation of instances h0w?
+how Patching intances
+AD intergated on AW
